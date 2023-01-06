@@ -1,0 +1,15 @@
+********* CALCULATOR ***********
+--- [ CALCULATOR INFORMATION AND HOW2USE --- ]
+-- [ Classic Calculator ] -- 
+   C
+➣ Choose the operation and add the operators.
+-- [ Hypotenuse Calculator ] --
+   H    
+➣ Add the values of sides. 
+-- [ Perimeter Calculator ] --   
+   P
+➣ Choose among the following: s (square), t (triangle), c (circle).
+-- [ Area Calculator ] --
+   A
+➣ Choose among the following: s (square), t (triangle), c (circle). 
+**********************************  
